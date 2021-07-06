@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @SORIYAINC
+- 👋 Hi, I’m @
+- https://b24-078s2b.bitrix24.com/video/MNiNn5Jel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-SORIYAINC/SORIYAINC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://b24-078s2b.bitrix24.com/video/MNiNn5Je is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
